@@ -1,0 +1,14 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Học lập trình JavaScipt",
+      "description": "Hiểu sâu hơn về cách Javascript hoạt động, tìm hiểu về IIFE, closure, reference types, this keyword, bind, call, apply, prototype, ..."
+    },
+    {
+      "id": 2,
+      "title": "Học lập trình TypeScript",
+      "description": "Hiểu được sự tối ưu của TypeScript so với JavaScript"
+    }
+  ]
+}
